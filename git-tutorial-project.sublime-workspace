@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"row",
+				"row2Header"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"i",
+				"inline-flex\tdisplay"
+			],
+			[
+				"Di",
+				"DIV\tTag"
+			],
+			[
+				"table",
+				"tabletr"
+			],
+			[
+				"ta",
+				"tabletd"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"f",
+				"flex\tdisplay"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"to",
+				"tobeSent"
+			],
+			[
+				"In",
+				"InsertRecord"
+			],
+			[
+				"co",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/RESTAPI/js/restAPIscripts.js",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/RESTAPI/css/styles.css",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/RESTAPI/LiveMonitor.html",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/PS_Dev/AngularPostPS/index.html",
+		"/C/Users/Marcius/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/RESTAPI/js/restAPIscripts",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/user_data_home_controller.js",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/internal_data_home_controller.js",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/sftp-config.json",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/PS_Dev/AngularPostPS/verification/js/internal_data_home_controller.js",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/PS_Dev/AngularPostPS/js/controller/internal_data_home_controller.js",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/marcius/PS_Dev/AngularPostPS/verification/auditor/au_re_dthome.php",
+		"/C/Users/Marcius/Desktop/Files Caspio/PS Dev Training/TestFolder/sftp-config.json",
+		"/C/Users/Marcius/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/Stage",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1618931682/Stage/var/www/html/support/marcius/PS_Dev/AngularPostPS/index.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1618931682/Stage/sftp-config.json",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1618931602/Stage/var/www/html/support/marcius/PS_Dev/AngularPostPS/index.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1618931602/Stage/sftp-config.json",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1618930615/Stage/var/www/html/support/marcius/PS_Dev/AngularPostPS/index.html",
+		"/C/users/marcius/appdata/local/temp/sftp-config.json",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1618931278/Stage/var/www/html/support/marcius/PS_Dev/AngularPostPS/js/controller/internal_data_home_controller.js",
+		"/C/Users/Marcius/AppData/Local/Temp/sftp-config.json",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/index 2.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/internal_data_home_controller.js",
+		"/C/Users/Marcius/Downloads/index.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1618446197/Webhost/public_html/MapMashup.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/map.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-3/index.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1616171704/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1617059476/Webhost/public_html/MapMashup.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1617059386/Webhost/public_html/mashup.js",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/LiveMonitor.html",
+		"/C/Users/Marcius/Desktop/Genshi/Genshin-Gacha-Export/userData/gacha-list-800035993.json",
+		"/C/Users/Marcius/Desktop/Genshi/Genshin-Gacha-Export/userData/config.json",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1616086984/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1615994534/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1615280997/Webhost/public_html/testrealm.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/test.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1614323570/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1614323544/Webhost/public_html/testrealm.css",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1614306268/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1614307931/Webhost/public_html/MapMashup.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/aioproject.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1613776225/Webhost/public_html/RESTAPI.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/LiveMonitor",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/links.js",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1610935735/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1610594583/Webhost/public_html/MapMashup.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1610578491/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1610514254/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1610070072/Webhost/public_html/MapMashup.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/employee_beta.php",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1607667109/Webhost/public_html/MapMashup.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1607647718/Webhost/public_html/MapMashup.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/navbar-channel.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/Channel.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/employee.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/employee-TL.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/update_announcements.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/new_announcement.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/login.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/time-in-checker.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/controller-template.angular.js",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/TemplateGenerator.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/controller-dev.angular.js",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/main.angular.js",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/router.angular.js",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/controller-navbar.angular.js",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/beta.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/navbar-employee_beta.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/PH_Announcements.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/navbar-employee.php",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1605921486/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1605652401/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1605590766/Webhost/public_html/UAT/index.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/TL.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/head.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/navbar-TL.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/ph-status-submit.html",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-2/chat.html",
+		"/C/Users/Marcius/Desktop/Files Caspio/employee.php",
+		"/C/Users/Marcius/Desktop/Files Caspio/Portal/Channel.php",
+		"/C/Users/Marcius/AppData/Local/Temp/fz3temp-3/Channel.php",
+		"/C/Users/Marcius/Documents/links.js",
+		"/C/Users/Marcius/Documents/scorecard.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1602026818/Webhost/public_html/RESTAPI.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1600324157/Webhost/public_html/RESTAPI.html",
+		"/C/Users/Marcius/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/Webhost",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1595876913/Webhost/public_html/MapMashup.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1595453449/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1595361852/Webhost/public_html/RESTAPI.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1594577218/Webhost/public_html/multilogin.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1594059754/Webhost/public_html/responsiveiframe.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1594140595/Webhost/public_html/testrealm.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1593459208/Webhost/public_html/RESTAPI.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1588609154/Webhost/public_html/RESTAPI.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1586543525/Webhost/public_html/RESTAPI.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1585259680/Webhost/public_html/RESTAPI.html",
+		"/C/users/marcius/appdata/local/temp/sublime-sftp-browse-1585170888/Webhost/public_html/RESTAPI.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Verifica",
+			"verif",
+			"map",
+			"key1",
+			"ad9b70002da1f116fead47a5b95f",
+			"end",
+			"\",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BearerKey",
+			"ad9b800007ba6abe345a4cfeb35e"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 361.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "git-tutorial-project.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
